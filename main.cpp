@@ -5,7 +5,7 @@
 #include <ctime>
 #include <windows.h>
 
-duda
+
 
 #include "screen.h"
 #include "menu.h"
