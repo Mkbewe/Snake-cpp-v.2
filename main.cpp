@@ -5,6 +5,8 @@
 #include <ctime>
 #include <windows.h>
 
+duda
+
 #include "screen.h"
 #include "menu.h"
 #include "snake.h"
@@ -384,7 +386,7 @@ int main()
 
                     apple_simple.update_apple(apple_x,apple_y);
 
-                    // sprawdzanie czy jab³ko nie wygenerowa³o sie w ciele
+                    // sprawdzanie czy jabï¿½ko nie wygenerowaï¿½o sie w ciele
 
                     while (Player1.Apple_Colision_body(apple_simple)==true||
                             Player2.Apple_Colision_body(apple_simple)==true)
